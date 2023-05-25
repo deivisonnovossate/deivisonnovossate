@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning HTML, CSS and JAVASCRIPT
 - 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/deivison-novossate-7b788a112/)
+- 📫 Knowledge in python
 ##
 
 <div>
